@@ -1,4 +1,4 @@
-# ⚠️ INSTALLATION TO RUN COMMAND 
+# ⚠️ COMMAND ༒︎༒︎😈
 
 ☠︎︎    apt update && apt upgrade
 
@@ -32,4 +32,4 @@
 
 #NOTICE
 
-Notice [❗This tool is paid so you need to approval to use DARK WOLF  tool 😈❗]
+Notice [❗This tool is paid😈 so you need to approval😎 to use DARK WOLF  tool 😈❗]
