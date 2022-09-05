@@ -1,17 +1,35 @@
-# paid 
+# ⚠️ INSTALLATION TO RUN COMMAND 
+
+☠︎︎    apt update && apt upgrade
 
 
-⚠️ INSTALLATION ⚠️
+☠︎︎    pkg install 
 
 
-git clone https://github.com/Darkwolfrabin/paid.git
+☠︎︎    pkg install git 
 
 
-cd paid 
+☠︎︎    pkg install python 
+  
+  
+
+☠︎︎    git clone https://github.com/Darkwolfrabin/paid.git
 
 
-ls 
+☠︎︎    cd paid 
+
+
+☠︎︎    ls 
 
 
 
-python vip1.py
+☠︎︎   python vip1.py
+
+
+
+
+
+
+#NOTICE
+
+Notice [❗This tool is paid so you need to approval to use DARK WOLF  tool 😈❗]
