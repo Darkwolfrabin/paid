@@ -1,31 +1,58 @@
 
 # ⚠️ COMMAND ༒︎༒︎😈
 
-☠︎︎    apt update && apt upgrade
+apt update && apt upgrade
 
 
-☠︎︎    pkg install 
-
-
-☠︎︎    pkg install git 
-
-
-☠︎︎    pkg install python 
-  
-  
-
-☠︎︎    git clone https://github.com/Darkwolfrabin/paid.git
-
-
-☠︎︎    cd paid 
-
-
-☠︎︎    ls 
+apt install python
 
 
 
-☠︎︎   python vip1.py
+pkg install git
 
+
+
+pip install requests
+
+
+
+pip install futures
+
+
+
+pip2 install mechanize
+
+
+
+pip install requests bs4
+
+
+
+pip2 install requests bs4
+
+
+
+pip install bs4
+
+
+
+rm -rf paid
+
+
+
+git clone https://github.com/Darkwolfrabin/paid.git
+
+
+
+cd paid
+
+
+
+ls
+
+
+
+python vip1.py
 
 
 
